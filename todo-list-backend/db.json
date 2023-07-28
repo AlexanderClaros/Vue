@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "titulo",
+      "description": "la descripcion debe ser un poco mas extensa  para ver como queda",
+      "date": "2023-07-30T08:14",
+      "id": 4
+    },
+    {
+      "title": "asdsdadf",
+      "description": "asdf",
+      "date": "2023-07-28T09:18",
+      "id": 5
+    },
+    {
+      "title": "prueba spinner",
+      "description": "estoy probando el funcionamiento de los spinner",
+      "date": "2023-07-28T14:33",
+      "id": 6
+    }
+  ]
+}
